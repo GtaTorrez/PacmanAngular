@@ -2,7 +2,7 @@
 Este proyecto fue generado con angular-cli 1.0.2
 ## Correr el proyecto
 
-Para correr el proyecto `ng serve` . En el navegador `http://localhost:4200/`. La aplicacion automaticamente recargara cuando haya cambios.
+Para correr el proyecto `ng serve` . En el navegador `http://localhost:4200/`. La aplicacion automaticamente recargará cuando haya cambios.
 
 ## Construir la aplicacion
 
